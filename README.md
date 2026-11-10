@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
 ⏱️ **Hours Logged**
 
-![Code Time](https://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+[![WakaTime](https://wakatime.com/badge/user/margarethoct.svg)](https://wakatime.com)
 <!--END_SECTION:waka-->
