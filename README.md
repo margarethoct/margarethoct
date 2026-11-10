@@ -1,5 +1,4 @@
 <!--START_SECTION:waka-->
 ⏱️ **Hours Logged**
 
-[![WakaTime](https://wakatime.com/badge/user/margarethoct.svg)](https://wakatime.com)
-<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/5305230e-3b30-4893-ba71-b450400bb630.svg)](https://wakatime.com/@5305230e-3b30-4893-ba71-b450400bb630)<!--END_SECTION:waka-->
