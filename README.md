@@ -1,30 +1,3 @@
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+⏱️ **Hours Logged**
 
-**🐱 My GitHub Data** 
-
-> 📦 682 Bytes Used in GitHub's Storage 
- > 
-> 🏆 41 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repository 
- > 
-**I Mostly Code in HTML** 
-
-```text
-HTML                     1 repo              █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/margarethoct/margarethoct/main/assets/bar_graph.png)
-
-
- Last Updated on 10/11/2026 17:36:21 UTC
-<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/5305230e-3b30-4893-ba71-b450400bb630.svg)](https://wakatime.com/@5305230e-3b30-4893-ba71-b450400bb630)
