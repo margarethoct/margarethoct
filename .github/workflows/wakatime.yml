@@ -1,18 +1,3 @@
-name: WakaReadMe
+⏱️ **Hours Logged**
 
-on:
-  schedule:
-    - cron: '0 17 * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update Readme with WakaTime Stats
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.WAKA_TOKEN }}
-        env:
-          GH_TOKEN: ${{ secrets.WAKA_TOKEN }}
+[![wakatime](https://wakatime.com/badge/user/5305230e-3b30-4893-ba71-b450400bb630.svg)](https://wakatime.com/@5305230e-3b30-4893-ba71-b450400bb630)
